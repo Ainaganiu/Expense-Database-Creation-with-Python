@@ -22,5 +22,13 @@ Python 3.x installed on your system.
 **Steps**:
 - Navigate to the project directory: ```cd expense-database```
 - Run the Python script: ```python expense_database.py```
+```# Example usage
+p1 = ExpenseDB()
+p1.add_expense('Food', 100)
+p1.add_expense('Transport', 50)
+p1_dict = p1.to_dict()
+for i,v in enumerate(p1_dict):
+    print(i,v)
+```
 
 Thank you!!!!
