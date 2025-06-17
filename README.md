@@ -13,7 +13,7 @@ This project includes:
 To clone this repository, run:
 
 bash
-git clone https://github.com/yourusername/expense-tracker.git
+git clone git@github.com:Ainaganiu/Expense-Database-Creation-with-Python.git
 
 ## How to Run
 Prerequisites:
