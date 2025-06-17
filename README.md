@@ -20,7 +20,7 @@ Prerequisites:
 
 Python 3.x installed on your system.
 **Steps**:
-- Navigate to the project directory: ```cd expense-database```
+- Navigate to the project directory: ```cd Expense-Database-Creation-with-Python```
 - Run the Python script: ```python expense_database.py```
 ```# Example usage
 p1 = ExpenseDB()
